@@ -12,7 +12,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 Added Line 1
 Added Line 2
-Added Line 3
+Added Line 3 updated
    __...__
 
 4. Modify the following line by removing the letters that do not belong:
